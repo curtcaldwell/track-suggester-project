@@ -1,0 +1,50 @@
+p {
+  cursor: pointer;
+  color: white;
+}
+
+p:hover {
+  text-decoration: underline;
+}
+h1{
+  text-align: center;
+  font-family: skia;
+}
+h2{
+  font-family: skia;
+}
+.result-panel{
+  text-align: center;
+  font-size: 40px;
+  color: whi te;
+  border-radius: 20px;
+
+}
+.wrapper{
+  text-align: center;
+
+}
+
+body {
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+  color: purple;
+}
+
+.red-background {
+  background-color: red;
+}
+.head{
+  text-align: center;
+  color: white;
+  border-style: inset;
+  border-color: white;
+}
